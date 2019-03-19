@@ -5,7 +5,7 @@ const _keys = {
     bmapkey: 'DOccg9buS8Vz1EngbQgfxvZvUNjI4Abl'
 }
 export default {
-    server_url: "http://192.168.1.5:9001",
+    server_url: "http://localhost:9001",
     page: {
         pagesize: 10
     },

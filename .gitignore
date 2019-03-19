@@ -5,3 +5,4 @@ preview/
 src/bower_components/
 typings/
 server/node_modules/
+server/package.json
